@@ -1,3 +1,4 @@
+http://lipeng1667.github.io/2017/01/18/gerrit-guide/#gerrit%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B
 # Gerrit Code Review
 
 [Gerrit](https://www.gerritcodereview.com) is a code review and project
